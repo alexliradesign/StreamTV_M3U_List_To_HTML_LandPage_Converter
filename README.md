@@ -16,6 +16,15 @@ And the main objective of developing this app is to make unnecessary the use of 
 
 In the list I provided as an example, almost all the links are to ".magnet" torrent movies. So, if you install a Torrent Media Player on your Windows, such as "Stremio", and associate the .magnets with it, as soon as you choose the movie and press enter it will open your preferred application to watch. In the lists I provided, each list item has a preview image, which is hosted on the list creator's website "blogspot".
 
+Some players that accept .magnets links:
+ACE Stream 3.1.32
+ALLPlayer
+Portcase Media Player
+Powder Player (BEST)
+Soda_Player (BEST)
+StreamTim (VLC PLUGIN)
+Torrent Video Player
+
 Dev: Alex Lira.
 Code For Design
 DONATIONS
