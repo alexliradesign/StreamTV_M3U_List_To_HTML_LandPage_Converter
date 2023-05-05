@@ -1,0 +1,9 @@
+C:\Users\DevOS\Documents\Visual Studio 2012\Projects\EXTM3U_List_To_HTML_Converter\GitHub\M3U_2_HTML_Converter\bin\Debug\M3U_2_HTML_Converter.exe
+C:\Users\DevOS\Documents\Visual Studio 2012\Projects\EXTM3U_List_To_HTML_Converter\GitHub\M3U_2_HTML_Converter\bin\Debug\M3U_2_HTML_Converter.pdb
+C:\Users\DevOS\Documents\Visual Studio 2012\Projects\EXTM3U_List_To_HTML_Converter\GitHub\M3U_2_HTML_Converter\bin\Debug\M3U_2_HTML_Converter.xml
+C:\Users\DevOS\Documents\Visual Studio 2012\Projects\EXTM3U_List_To_HTML_Converter\GitHub\M3U_2_HTML_Converter\obj\Debug\M3U_2_HTML_Converter.Form1.resources
+C:\Users\DevOS\Documents\Visual Studio 2012\Projects\EXTM3U_List_To_HTML_Converter\GitHub\M3U_2_HTML_Converter\obj\Debug\M3U_2_HTML_Converter.Resources.resources
+C:\Users\DevOS\Documents\Visual Studio 2012\Projects\EXTM3U_List_To_HTML_Converter\GitHub\M3U_2_HTML_Converter\obj\Debug\M3U_2_HTML_Converter.vbproj.GenerateResource.Cache
+C:\Users\DevOS\Documents\Visual Studio 2012\Projects\EXTM3U_List_To_HTML_Converter\GitHub\M3U_2_HTML_Converter\obj\Debug\M3U_2_HTML_Converter.exe
+C:\Users\DevOS\Documents\Visual Studio 2012\Projects\EXTM3U_List_To_HTML_Converter\GitHub\M3U_2_HTML_Converter\obj\Debug\M3U_2_HTML_Converter.xml
+C:\Users\DevOS\Documents\Visual Studio 2012\Projects\EXTM3U_List_To_HTML_Converter\GitHub\M3U_2_HTML_Converter\obj\Debug\M3U_2_HTML_Converter.pdb
