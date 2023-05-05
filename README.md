@@ -18,4 +18,8 @@ In the list I provided as an example, almost all the links are to ".magnet" torr
 
 Dev: Alex Lira.
 Code For Design
+DONATIONS
+PAYPAL
+AlexLiraDesign @gmail.com
 Stream TV M3U List To HTML Landing Page Converter | Converts an M3U stream list, into a landing page in .html format, to be navigated in browser
+#m3u #IPTV #PlayMagnet #PlayTorrent
